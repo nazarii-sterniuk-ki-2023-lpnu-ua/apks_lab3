@@ -1,0 +1,4 @@
+[library.work]
+files = [
+    "*.vhd"
+]
